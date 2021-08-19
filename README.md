@@ -17,6 +17,8 @@
 
 - 📝 I regularly write articles on [https://clearvoice.com/cv/SurajKumar4](https://clearvoice.com/cv/SurajKumar4)
 
+- ✏️ Link to my portfolio website [https://pedantic-kepler-95ad78.netlify.app](https://pedantic-kepler-95ad78.netlify.app/)
+
 - 💬 Ask me about **react node and DSA**
 
 - 📫 How to reach me **suraj.skumar02@gmail.com**
