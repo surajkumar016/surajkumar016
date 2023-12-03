@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **other Software Developers**
 
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajkumar016](https://github.com/surajkumar016)
 
