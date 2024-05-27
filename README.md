@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suraj kumar! Great to see you here!</h1>
-<h3 align="center">A passionate CSE Student and a Web Developer.</h3>
+<h3 align="center">A passionate Software Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=surajkumar016&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumar016" /> </p>
 
 ### 👨‍🎓 &nbsp;About Me
 
-- 🔭 I’m currently looking for an **internship in Software Development**
 
-- 🌱 I’m currently learning **MERN Stack** <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkumar016&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="surajkumar016" /></p>
-
-- 👯 I’m looking to collaborate with **other Software Developers**
-
-- 🥅 2024 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute to software development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajkumar016](https://github.com/surajkumar016)
 
